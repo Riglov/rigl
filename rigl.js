@@ -1,8 +1,3 @@
-/*!
- * Rigl.js v1.0.0
- * (c) 2021 rigljs@bk.ru
- * Released under the MIT License.
- */
  (function(modules) { 
  	var installedModules = {};
  	function __webpack_require__(moduleId) {
