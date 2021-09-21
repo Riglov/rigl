@@ -1,2 +1,0 @@
-# rigl
-reactive web components
